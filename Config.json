@@ -1,0 +1,9 @@
+{
+  "token": "token-here",
+  "create_channels_amount": 100,
+  "create_channels_name": "quazide",
+  "cmd_mode": true,
+  "prefix": "x",
+  "command": "nuke",
+  "cmd_whitelist": []
+}
